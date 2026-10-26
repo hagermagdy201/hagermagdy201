@@ -3,14 +3,14 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/in/hager-magdy-83230b23a/">
-<img src="https://img.shields.io/badge/LinkedIn-Hager%20Magdy-blue?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-  
+    <img src="https://img.shields.io/badge/LinkedIn-Hager%20Magdy-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>  
   <a href="mailto:hagermm2001@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-c14438?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-c14438?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-
+  <a href="https://www.behance.net/hagermagdy14">
+    <img src="https://img.shields.io/badge/Behance-Portfolio-1769ff?style=flat-square&logo=behance&logoColor=white"/>
+  </a>
 </p>
 
 ---
